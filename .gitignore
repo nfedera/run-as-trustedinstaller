@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/run-as-trustedinstaller/run-as-trustedinstaller.vcxproj
+/run-as-trustedinstaller/run-as-trustedinstaller.vcxproj.filters
+/run-as-trustedinstaller.sln
